@@ -3,7 +3,7 @@
   <a href="https://discord.gg/DcmwAB6NmE">Discord</a> |
   <a href="https://www.youtube.com/channel/UCTwU99osnBuiOKne146IqOg?sub_confirmation=1">YouTube</a> |
   <a href="https://github.com/xno1n">Github</a><br><br>
-  <img src="https://user-images.githubusercontent.com/90966219/171060402-895c00e6-734b-4222-b0e9-1f5fa049da43.png" style="width: 80%">
+  <img src="https://img.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg" style="width: 80%">
 </p>
 
 ##   
