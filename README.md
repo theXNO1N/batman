@@ -14,8 +14,8 @@
            python3 pcam.py
 
 # Batman
- <img alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- <img alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ <img alt="main " src="https://raw.githubusercontent.com/theXNO1N/batman/main/file/batmanmain.png">
+ <img alt="public cam " src="https://raw.githubusercontent.com/theXNO1N/batman/main/file/Bcam.png">
 
 ###
 ### 🧰 Support
