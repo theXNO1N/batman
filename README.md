@@ -1,3 +1,15 @@
+# camera hacker "Batman"
+
+* **new way** 
+* Access to the admin page of the camera
+* Access to public cameras is just a click away !
+* Launch automated dictionary attacks to get the **username and password** of the cameras
+* The ability to record video and download the memory of the last 1 month of the camera !
+
+<p align="center"><img src="file/batmanLOGO.webp" width="250"/></p>
+
+
+
 # Installation (termux | kali linux)
            apt-get install python3
            apt-get install git
