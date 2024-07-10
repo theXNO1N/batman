@@ -13,8 +13,11 @@
            ls
            python3 pcam.py
 
-# App 
+# Batman
+ <img alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ <img alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
+###
 ### 🧰 Support
 - Email: <xno1nSUP@gmail.com>
 - Discord: https://discord.gg/DcmwAB6NmE
