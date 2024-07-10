@@ -1,5 +1,5 @@
 
-slowprint(''' \033[93m
+slowprint=(''' \033[93m
 [01] python             [02] python2
 [03] python-dev         [04] python3
 [05] php                [06] java
