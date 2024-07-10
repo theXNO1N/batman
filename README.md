@@ -1,7 +1,7 @@
-<p align: center;><a alinge : href="http://thexno1n.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/theXNO1N/batman/main/file/batmanLOGO.webp" width="250" alt="batman Logo"></a>
+<p><a alinge : href="http://thexno1n.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/theXNO1N/batman/main/file/batmanLOGO.webp" width="250" alt="batman Logo"></a></p>
 <br />
-<img align: center; alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img align: center; alt="license Mit" src="https://img.shields.io/badge/license-MIT-green">
+<img alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img alt="license Mit" src="https://img.shields.io/badge/license-MIT-green">
 
 
 
@@ -9,7 +9,7 @@
            apt-get install python3
            apt-get install git
            git clone https://github.com/TheXno1n/batman.git
-           cd batman.py
+           cd btaman.py
            ls
            python3 pcam.py
 
@@ -24,7 +24,8 @@
 - Under licensed MIT MIT License.
 ###
 
-
-  <img align: center; src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
-  <img align: center; src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
-  <img align: center; src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
+<P>
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License Badge">
+  <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
+</p>
