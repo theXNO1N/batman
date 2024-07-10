@@ -1,9 +1,9 @@
 import os
 import sys
 import click
+from colorama import Fore
 
-
-TG= ''
+TG=Fore.GREEN
 
 print("     ")
 print("     ")                                                                                                    
@@ -31,14 +31,15 @@ print(TG+"            power buy XN1ON                  ████████ 
 print(TG+"               GITHUB ID :                     █████                    2- CCTV cam hacker (soon !)                         ")
 print(TG+"                @TheXno1n                        ██                     3- CCTV web finder (soon !)                            ")
 print("    ")
-number=(print("enter number :    "))
+number=(input("enter number :"))
 
 if number == 1:
     click.clear()
     import Pcam
 else :
     print("wrong number :( !")
-    sys.exit
+    click.clear()
+    import batman
                                                                                                       
-                                                                                                    
+                                                                                           
                                                                                                     

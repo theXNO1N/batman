@@ -9,7 +9,7 @@
            apt-get install python3
            apt-get install git
            git clone https://github.com/TheXno1n/batman.git
-           cd btaman.py
+           cd btaman
            ls
            python3 pcam.py
 
