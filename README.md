@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://freepik.com" target="_blank"><img src="https://content.pstmn.io/b06daa51-6d2f-4e8d-9eb1-e11799acec78/RnJlZXBpa19QcmltYXJ5X2xvZ29fUGlraUJsdWVfMDEucG5n" width="250" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -17,22 +16,6 @@
            ls
            python3 cctv-Hack.py
 
-
-
-
-
-
-=======
-<p align='center'>
-  <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://discord.gg/DcmwAB6NmE">Discord</a> |
-  <a href="https://www.youtube.com/channel/UCTwU99osnBuiOKne146IqOg?sub_confirmation=1">YouTube</a> |
-  <a href="https://github.com/xno1n">Github</a><br><br>
-  <img src="https://img.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg" style="width: 80%">
-</p>
-
-##   
->>>>>>> 64e75fa0f2f12118b9009b1e18d7c309bb2bd0ef
 
 ### 🧰 Support
 - Email: <xno1nSUP@gmail.com>
