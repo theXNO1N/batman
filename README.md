@@ -1,10 +1,7 @@
 <p align="center">
-    <img src="https://img.shields.io/badge/version%200.1-camera%20hack-green" width="10%"/>
-</p>
-<p align="center">
+    <img src="https://img.shields.io/badge/version%200.1-camera%20hack-green" width="20%"/>
     <img src="https://img.shields.io/badge/license-MIT-green" width="10%"/>
 </p>
-
 
 # camera hacker "Batman"
 
