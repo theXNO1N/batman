@@ -1,6 +1,5 @@
 # camera hacker "Batman"
 
-* **new way** 
 * Access to the admin page of the camera
 * Access to public cameras is just a click away !
 * Launch automated dictionary attacks to get the **username and password** of the cameras
