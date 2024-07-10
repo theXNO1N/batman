@@ -1,5 +1,6 @@
 <p><a href="http://thexno1n.github.io/" target="_blank"><img src="https://github.com/theXNO1N/batman/blob/main/file/batman.png?raw=true" width="250" alt="Laravel Logo"></a>
-<img alt="PHP " src="https://img.shields.io/badge/PHP--Guzzle-4F5B93">
+<br />
+<img alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img alt="license Mit" src="https://img.shields.io/badge/license-MIT-green">
 
 
