@@ -1,11 +1,15 @@
-<p><a href="http://thexno1n.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/theXNO1N/batman/main/file/batmanLOGO.webp" width="250" alt="Laravel Logo"></a>
+<style>
+.Align-center {
+text-align: center;
+}
+<p><a alinge : href="http://thexno1n.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/theXNO1N/batman/main/file/batmanLOGO.webp" width="250" alt="Laravel Logo"></a>
 <br />
 <img alt="Python " src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img alt="license Mit" src="https://img.shields.io/badge/license-MIT-green">
 
 
 
-# termux | kali linux
+# Installation (termux | kali linux)
            apt-get install python3
            apt-get install git
            git clone https://github.com/TheXno1n/batman.git
